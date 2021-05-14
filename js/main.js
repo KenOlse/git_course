@@ -18,3 +18,6 @@ interval = setInterval(function() {
         clearInterval(interval)
     }
 }, 30)
+
+
+console.log('Try')
